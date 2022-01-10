@@ -31,7 +31,9 @@ Functionality and concepts used
 5. Android Jetpack Libraries
 6.ViewModel
                  
-                              
+                      
+                      
+![new12345](https://user-images.githubusercontent.com/97396095/148742696-89691604-d140-4988-bbb8-585b285ae6fa.png)
 
 App link on github
 https://github.com/JainAyush09/QuickRead
@@ -45,7 +47,9 @@ Future Scope
 
 	Opportunity for you to add your Quick Story in this app.
 
-                              
+        
+
+                      
 
 
 
